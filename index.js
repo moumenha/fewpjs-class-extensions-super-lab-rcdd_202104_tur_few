@@ -4,6 +4,6 @@ class Tree {
     this.species = species;
   }
   definition(){
-    return 
+    return `A ${this.species} is a perennial plant with an elongated stem, or trunk, supporting`;
   }
 }

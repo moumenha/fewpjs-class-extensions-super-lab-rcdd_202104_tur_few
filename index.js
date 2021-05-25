@@ -3,5 +3,7 @@ class Tree {
   contsructor(species){
     this.species = species;
   }
-  fr
+  definition(){
+    return 
+  }
 }
